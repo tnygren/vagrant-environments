@@ -6,7 +6,7 @@ apt-get update
 apt-get install -y apache2 vim git zsh
 
 #python
-apt-get install -y python-sklearn python-nltk python-qt4
+apt-get install -y python-sklearn python-nltk python-qt4 python-pandas
 
 #java
 apt-get install -y default-jdk
