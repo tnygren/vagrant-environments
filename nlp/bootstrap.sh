@@ -21,3 +21,5 @@ fi
 #NLTK
 python -m nltk.downloader brown
 python -m nltk.downloader punkt
+python -m nltk.downloader stopwords
+python -m nltk.downloader wordnet
