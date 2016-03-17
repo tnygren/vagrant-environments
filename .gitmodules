@@ -1,0 +1,6 @@
+[submodule "nlp/DeepLearningMovies"]
+	path = nlp/DeepLearningMovies
+	url = https://github.com/wendykan/DeepLearningMovies
+[submodule "nlp/scikit-learn"]
+	path = nlp/scikit-learn
+	url = https://github.com/scikit-learn/scikit-learn
