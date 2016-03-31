@@ -23,4 +23,4 @@ python -m nltk.downloader punkt
 python -m nltk.downloader stopwords
 python -m nltk.downloader wordnet
 
-apt-get autoremove
+apt-get -y autoremove
