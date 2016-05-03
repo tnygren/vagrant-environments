@@ -8,6 +8,9 @@ apt-get install -y vim git zsh
 #postgresql
 apt-get install -y postgresql postgresql-client
 
+#phppgadmin
+apt-get install -y phppgadmin
+
 #java
 apt-get install -y default-jdk
 apt-get install -y libpostgresql-jdbc-java
