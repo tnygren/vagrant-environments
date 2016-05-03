@@ -1,0 +1,11 @@
+# Vagrant stuff
+nlp/.vagrant
+postgresql/.vagrant
+flask/.vagrant
+jupyter/.vagrant
+
+# Workspaces
+postgresql/workspace
+nlp/workspace
+flask/workspace
+jupyter/workspace
