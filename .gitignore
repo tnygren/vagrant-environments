@@ -5,6 +5,7 @@ flask/.vagrant
 jupyter/.vagrant
 latex/.vagrant
 basicUbuntu/.vagrant
+jenkins/.vagrant
 
 # Workspaces
 postgresql/workspace
@@ -13,3 +14,4 @@ flask/workspace
 jupyter/workspace
 latex/workspace
 basicUbuntu/workspace
+jenkins/workspace
