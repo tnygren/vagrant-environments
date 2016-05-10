@@ -5,6 +5,11 @@ apt-get update
 #apt-get install -y apache2 vim git zsh
 apt-get install -y vim git zsh
 
+# Language settings
+locale-gen "fi_FI.UTF-8"
+dpkg-reconfigure locales
+locale
+
 #python
 #apt-get install -y python-sklearn python-nltk python-qt4 python-pandas
 
