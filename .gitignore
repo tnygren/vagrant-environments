@@ -1,17 +1,2 @@
-# Vagrant stuff
-nlp/.vagrant
-postgresql/.vagrant
-flask/.vagrant
-jupyter/.vagrant
-latex/.vagrant
-basicUbuntu/.vagrant
-jenkins/.vagrant
-
-# Workspaces
-postgresql/workspace
-nlp/workspace
-flask/workspace
-jupyter/workspace
-latex/workspace
-basicUbuntu/workspace
-jenkins/workspace
+*/.vagrant
+*/workspace
