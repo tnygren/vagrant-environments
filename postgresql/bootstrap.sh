@@ -12,7 +12,7 @@ apt-get install -y postgresql postgresql-client
 apt-get install -y phppgadmin
 
 #java
-apt-get install -y default-jdk
+apt-get install -y default-jdk ant
 apt-get install -y libpostgresql-jdbc-java
 
 #languae setting
