@@ -20,6 +20,9 @@ apt-get -y install build-essential python3-dev python-qt4
 # Pattern is a web mining module for the Python
 easy_install pattern
 
+# Connect colorbrewer2.org color maps to Python and matplotlib
+easy_install brewer2mpl
+
 #cd
 #wget https://3230d63b5fc54e62148e-c95ac804525aac4b6dba79b00b39d1d3.ssl.cf1.rackcdn.com/Anaconda2-4.0.0-Linux-x86_64.sh
 #bash Anaconda2-4.0.0-Linux-x86_64.sh
