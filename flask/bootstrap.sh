@@ -15,10 +15,10 @@ locale
 
 #Anaconda
 #https://www.continuum.io/downloads
-apt-get -y install build-essential python3-dev python-pip
+apt-get -y install build-essential python3-dev python-pip virtualenv
 
 #Flask
-pip install Flask
+pip install flask
 
 #webserver
 #apt-get install -y apache2
