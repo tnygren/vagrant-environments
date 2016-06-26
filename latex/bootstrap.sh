@@ -9,6 +9,9 @@ locale-gen "fi_FI.UTF-8"
 dpkg-reconfigure locales
 locale
 
+# Latex
+apt-get install -y pandoc wkhtmltopdf exiftool
+
 #sudo VBoxClient-all
 if ! [ -L /var/www ]; then
   rm -rf /var/www
